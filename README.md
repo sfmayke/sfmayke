@@ -19,7 +19,7 @@
 </h1>
 </div>
 
-### I'm Software Engineer from Brazil.
+### I'm Data Engineer from Brazil.
 
 - 🎓 Education:
 	- System Analisys and Development ( Amazon University )
