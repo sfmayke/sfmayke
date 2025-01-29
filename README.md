@@ -22,14 +22,14 @@
 ### I'm Data Engineer from Brazil.
 
 - 🎓 Education:
-	- System Analisys and Development ( Amazon University )
-	- Data Science nanodegree ( Udacity )
+	- System Analysis and Development ( Amazon University )
+	- Data Engineer nanodegree ( Udacity )
 - :man_technologist: Work:
-	- I'm currently working as a Front-End Developer
-	- Doing some cool personal projects using React and React Native 
-- :superhero_man: I'm a very curious person and love learning new stuff
+	- I'm currently working as a Data Engineer
+	- Doing some cool personal projects using Python & Distributed Computing (spark) 
+- :superhero_man: I'm a very curious person and love learning new stuff!
 
-- ⚡ Fun fact: I'm a gamer & gamer dev on my free time.
+- ⚡ Fun fact: I'm a gamer & gamer dev in my free time.
 
 ---
 
@@ -37,6 +37,11 @@
 
 <div id="body" align="center">
 <div>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
